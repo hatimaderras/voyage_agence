@@ -1,0 +1,47 @@
+
+            .header {
+                background-color: #fdf0ea;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            
+                
+            }
+            .logo a{
+                color: black;
+                text-decoration: none;
+                padding: 0px 10px;
+                border-radius: 15px;
+            }
+            .logo a:hover{
+              background-color: #eb662b;
+            }
+            .logo button{
+                border: none;
+                background-color: #eb662b;
+                color: white;
+                padding: 1px 10px;
+                border-radius: 15px;
+            }
+            .logo button:hover{
+              background-color:black;
+            }
+            .image{
+                display: flex;
+                justify-content: right;
+                align-items: end;
+
+            }
+            .explore button{
+                background-color: #eb662b;
+            }
+            .explore button:hover{
+                background-color:white;
+            }
+            .landing{
+                
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            
